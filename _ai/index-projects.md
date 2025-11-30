@@ -1,3 +1,10 @@
+---
+id: index-projects
+type: index
+scope: projects
+status: active
+---
+
 # Index of Projects (Связи с внешними репозиториями)
 
 Этот документ описывает внешние проекты, связанные с `author-mind`, и объясняет, какие смысловые материалы переходят между ними.
