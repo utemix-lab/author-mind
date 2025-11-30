@@ -1,3 +1,10 @@
+---
+id: lines-model
+type: architecture
+scope: lines
+status: active
+---
+
 # Lines Model — архитектура смысловых линий
 
 Документ определяет формальный механизм работы со смысловыми линиями  
