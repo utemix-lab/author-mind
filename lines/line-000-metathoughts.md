@@ -1,3 +1,12 @@
+---
+id: line-000-metathoughts
+type: line
+title: "Про природу мысли и структуру смысла"
+themes: [duality, mind, machines, evolution]
+projects: [vovaipetrova]
+status: active
+---
+
 # line-000-metathoughts — Про природу мысли и структуру смысла
 
 ## 1. Истоки
