@@ -1,3 +1,10 @@
+---
+id: project-vovaipetrova
+type: project
+repo: vovaipetrova-core
+status: active
+---
+
 # project-vovaipetrova
 
 ## Назначение проекта
