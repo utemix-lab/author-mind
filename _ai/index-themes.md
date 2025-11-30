@@ -1,3 +1,10 @@
+---
+id: index-themes
+type: index
+scope: themes
+status: active
+---
+
 # Index of Themes (Карта Тем)
 
 Этот файл — смысловая карта `author-mind`.  
