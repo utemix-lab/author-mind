@@ -1,3 +1,10 @@
+---
+id: index-stories
+type: index
+scope: stories
+status: active
+---
+
 # Index of Stories (Индекс дневниковых эпизодов)
 
 Stories — это дневник проектов, записанный двумя голосами:
