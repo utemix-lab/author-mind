@@ -1,3 +1,9 @@
+---
+id: overview
+type: overview
+status: active
+---
+
 # Author Mind — Overview for LLM
 
 Этот документ — быстрый вход в контекст для любой LLM.  
